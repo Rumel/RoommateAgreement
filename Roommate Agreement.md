@@ -1,10 +1,8 @@
-The Official Roommate Agreement of Room 1202
-===============================
+#The Official Roommate Agreement of Room 1202
 
 In preparation for cohabitation of the mutual space deemed to us by the University of Nebraska at Lincoln, the later mentioned and signing parties agree to adhere to the following terms of agreement, both agreeing that all discourse and unsurities will can and will be settled in a friendly and respectful manor with as little strife as possible, striving towards mutual happiness and success in the outcome of any college experience both in semester and out, and any necessary cohabitation that follows the exeunt of college.
 
-Part 1
--------
+##Part I
 
 1. The first rule of living in Room 1202 is that one does not talk about what goes on in Room 1202.
 
@@ -119,3 +117,35 @@ Part 1
 56. No roommate is ready to use the Vietnamese Shame Wheel.
 
 57. Roommates only wear pink on Wednesdays
+
+##Part II <br />
+###The Extended Clauses of Room 1202
+
+####The Forced Habitation Clause
+
+An occurrence may occur when a third party may gain voting power in Room 1202, such an event has been designated as the Forced Habitation Clause. This clause grants voting power to an individual whose presence in Room 1202 is (hourly) at least equal to one half of the time spent by either of the full time parties average weekly hours. The third party must also spend on average 3 nights a week in Room 1202, either alone or in the company of the permanent parties. Once declared a Forced Resident the mentioned party must only renew their voting rights after one year and my simply claim an appeal to the permanent residents. At this point the Two-Thirds Majority Vote will be used to accept such an appeal if there is conflict in decision.
+
+####The Elastic Clause
+The Elastic Clause designates the ability to stretch but not break agreed terms of the roommate agreement based on each parties feminine interests. The Elastic Clause applies towards all rules based on a feminine party being involved, unless so marked otherwise.
+
+####The Two-Thirds Majority Vote
+The Two-Thirds Majority Vote is the addition of further rules, decisions, and agreements that the occupants of the room neglected, forgot, or chose not to add at the time of this document’s creation. Each occupant represents one of the three required members for this vote. The third representative shall be declared the official third signer of this document and will be agreeing to be called upon in any situation, and who is not in a position of authority, RA’s, girlfriends, commanding officers, etc.
+
+####The LDR (Long Distance Relationship) Clause
+The existence of a long distance relationship between a roommate and the select pursued female shall be aided by the opposite party unless the said party and at least five, but no more than then ten people chosen equally by each party vote that the afore mentioned female is a bitch. (On a side note, this voting system is known as the Without The Female (WTF) Vote)
+
+The acceptable qualifications allowing a roommate to declare a female companion a bitch and declare the WTF Vote.
+
+* The possession of multiple faces
+* Incredible intellectual ability to display vast amounts of unwanted knowledge simply to appeal to their own ego.
+* Unreasonable irritability (once again decided upon by the WTF Vote) that is in no way associated with the female parties “time of the month”.
+* Attempts the metaphorical violent act of impaling the victim in the back.
+* Requires constant confirmation in the relevance of their own existence.
+* Participates in the whoring of attention.
+* Refuses to believe that their shit does not smell as much as the next pile (or argues that it always is worse).
+* Gathers a false sense of superiority over those who surround her.
+
+The LDR clause applies to any feminine interest or girlfriend who is living at least one hour of standard non-rush hour transit time, at state determined speed laws, away from the pursuing party or at a distance greater than 50 miles. If the female lives with-in the boundary set by this clause than the pursuing party is not subject to mandatory aid from the opposite party.
+
+####The Unless Clause
+In the event that a roommate may commit a transgression of the above mentioned conditions, he may plead forgiveness via The Unless Clause. The Unless Clause states that if a roommate can use the phrase, “…but/unless she was/is hot.” at the end of the sentence they use to describe their transgression, they may be forgiven automatically if all other roommates (temporary or permanent) are in concordance that she was/is indeed “hot”. 

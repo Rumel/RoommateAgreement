@@ -118,6 +118,8 @@ In preparation for cohabitation of the mutual space deemed to us by the Universi
 
 57. Roommates only wear pink on Wednesdays
 
+58. The official dorm game shall be "Hide the Potato" or "Hide the Orange"
+
 ##Part II <br />
 ###The Extended Clauses of Room 1202
 

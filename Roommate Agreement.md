@@ -120,6 +120,8 @@ In preparation for cohabitation of the mutual space deemed to us by the Universi
 
 58. The official dorm game shall be "Hide the Potato" or "Hide the Orange"
 
+59. Room 1202 only recognizes the history of the Civil War as according to the events laid forth by Abraham Lincoln: Vampire Hunter
+
 ##Part II <br />
 ###The Extended Clauses of Room 1202
 

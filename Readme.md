@@ -1,5 +1,7 @@
 #The Official Roommate Agreement of Room 1202
 
+##Step 1: undrop the class
+
 In preparation for cohabitation of the mutual space deemed to us by the University of Nebraska at Lincoln, the later mentioned and signing parties agree to adhere to the following terms of agreement, both agreeing that all discourse and unsurities will can and will be settled in a friendly and respectful manor with as little strife as possible, striving towards mutual happiness and success in the outcome of any college experience both in semester and out, and any necessary cohabitation that follows the exeunt of college.
 
 ##Part I

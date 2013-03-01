@@ -122,6 +122,8 @@ In preparation for cohabitation of the mutual space deemed to us by the Universi
 
 59. Room 1202 only recognizes the history of the Civil War as according to the events laid forth by Abraham Lincoln: Vampire Hunter
 
+60. Silverware goes in the freezer.
+
 ##Part II <br />
 ###The Extended Clauses of Room 1202
 
